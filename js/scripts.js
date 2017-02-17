@@ -28,7 +28,7 @@ else if (value < 0) {
   console.log('Wynik działania jest ujemny')
 }
 
-if (value == 0) {
+else {
   alert('Wynik jest równy: ' + value);
   console.log('Wynik działania jest równy "0" ')
 }
